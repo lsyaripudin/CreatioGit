@@ -1,0 +1,12 @@
+= MetaData.Schema.UId "a37a8f58-70a9-4d34-9352-3b14340edc04"
+= MetaData.Schema.A2 "UsrRPB1Page"
+= MetaData.Schema.B6 "cee5b7f2-f393-f350-fd3c-297aa32e0429"
+= MetaData.Schema.B8 "8.0.8.4807"
+= MetaData.Schema.HD1 "d62293c0-7f14-44b1-b547-735fb40499cd"
++ MetaData.Schema.HD2 "null"
+= MetaData.Schema.HD5 []
++ MetaData.Schema.HD9 "null"
++ MetaData.Schema.HD10 "null"
+- MetaData.Schema.B7
+- MetaData.Schema.HD12
++ MetaData.Schema.B7 false

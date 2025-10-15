@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "01e9e123-aed8-48ed-85b9-4a31da6ed934",
+    "Name": "UsrRPBFile",
+    "ModifiedOnUtc": "\/Date(1760500261000)\/",
+    "Parent": {
+      "UId": "556c5867-60a7-4456-aae1-a57a122bef70",
+      "Name": "File"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "RPB attachment",
+    "DependsOn": []
+  }
+}

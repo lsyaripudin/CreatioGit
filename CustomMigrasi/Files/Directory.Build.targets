@@ -1,0 +1,19 @@
+<Project>
+	<ItemGroup Condition="'$(PkgPath)' != ''">
+		<Compile Remove="$(PkgPath)/CustomMigrasi/Assemblies/**" />
+		<Compile Remove="$(PkgPath)/CustomMigrasi/Data/**" />
+		<Compile Remove="$(PkgPath)/CustomMigrasi/SqlScripts/**" />
+		<Compile Remove="$(PkgPath)/CustomMigrasi/Schemas\**" />
+		<Compile Remove="$(PkgPath)/CustomMigrasi/Resources/**" />
+		<EmbeddedResource Remove="$(PkgPath)/CustomMigrasi/Assemblies/**" />
+		<EmbeddedResource Remove="$(PkgPath)/CustomMigrasi/Data/**" />
+		<EmbeddedResource Remove="$(PkgPath)/CustomMigrasi/SqlScripts/**" />
+		<EmbeddedResource Remove="$(PkgPath)/CustomMigrasi/Schemas/**" />
+		<EmbeddedResource Remove="$(PkgPath)/CustomMigrasi/Resources/**" />
+		<None Remove="$(PkgPath)/CustomMigrasi/Assemblies/**" />
+		<None Remove="$(PkgPath)/CustomMigrasi/Data/**" />
+		<None Remove="$(PkgPath)/CustomMigrasi/SqlScripts/**" />
+		<None Remove="$(PkgPath)/CustomMigrasi/Schemas/**" />
+		<None Remove="$(PkgPath)/CustomMigrasi/Resources/**" />
+  </ItemGroup>
+</Project>

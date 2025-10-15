@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "831963b7-4a1b-4611-be00-39ee61691fa6",
+    "Name": "UsrRPBInFolder",
+    "ModifiedOnUtc": "\/Date(1760500269000)\/",
+    "Parent": {
+      "UId": "4f63bafb-e9e7-4082-b92e-66b97c14017c",
+      "Name": "BaseItemInFolder"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "RPB in Folder",
+    "DependsOn": []
+  }
+}

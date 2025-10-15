@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "04d3c074-b7a4-4bc4-8739-9edfa04ee6d4",
+    "Name": "UsrRPBTag",
+    "ModifiedOnUtc": "\/Date(1760500272000)\/",
+    "Parent": {
+      "UId": "9e3f203c-e905-4de5-9468-335b193f2439",
+      "Name": "BaseTag"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "RPB section tag",
+    "DependsOn": []
+  }
+}

@@ -1,0 +1,78 @@
+﻿{
+  "Descriptor": {
+    "UId": "cee5b7f2-f393-f350-fd3c-297aa32e0429",
+    "Name": "CustomMigrasi",
+    "Type": 1,
+    "ModifiedOnUtc": "\/Date(1760501080000)\/",
+    "Maintainer": "Customer",
+    "ProjectPath": "Files/CustomMigrasi.csproj",
+    "Description": "Package di dalam Custom",
+    "DependsOn": [
+      {
+        "UId": "02947595-4670-48e3-80ea-f278e3c9391c",
+        "PackageVersion": "7.8.0",
+        "Name": "MLBase"
+      },
+      {
+        "UId": "062de047-62f1-4580-85e2-0417d450a3a8",
+        "PackageVersion": "7.8.0",
+        "Name": "BaseScoring"
+      },
+      {
+        "UId": "06d9ef10-51d8-122c-8933-9212e84236c9",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtBase"
+      },
+      {
+        "UId": "148ab29f-ee31-44cb-9d3d-883c69ca3d1e",
+        "PackageVersion": "7.8.0",
+        "Name": "SspKnowledgeBase"
+      },
+      {
+        "UId": "16f3a449-34d6-461f-aa52-053fcf308201",
+        "PackageVersion": "7.8.0",
+        "Name": "Base_Obsolete"
+      },
+      {
+        "UId": "4a37386b-d976-41f8-a469-63bd93d24027",
+        "PackageVersion": "7.8.0",
+        "Name": "ProductBase"
+      },
+      {
+        "UId": "5048abef-9ed6-4a50-97bd-e91dea4ac632",
+        "PackageVersion": "7.8.0",
+        "Name": "CTIBase"
+      },
+      {
+        "UId": "516f7ad2-afe0-4d38-bdc6-9e3e15a172ef",
+        "PackageVersion": "7.8.0",
+        "Name": "BaseProcessDesigner"
+      },
+      {
+        "UId": "5be3998b-c5c3-42bb-a01c-2e4149059a97",
+        "PackageVersion": "7.8.0",
+        "Name": "Base"
+      },
+      {
+        "UId": "62e2670f-4c32-43aa-bc37-36955a5d8127",
+        "PackageVersion": "7.8.0",
+        "Name": "PRMBase"
+      },
+      {
+        "UId": "6688415a-fadb-494e-a018-5618e8b6926e",
+        "PackageVersion": "7.8.0",
+        "Name": "CalendarBase"
+      },
+      {
+        "UId": "b8bc60f4-5aef-4760-bd1b-57d7cbc48143",
+        "PackageVersion": "7.8.0",
+        "Name": "Base_ENU"
+      },
+      {
+        "UId": "eb74c841-b4d1-4bf3-a489-300c0a0f7133",
+        "PackageVersion": "7.8.0",
+        "Name": "KnowledgeBase"
+      }
+    ]
+  }
+}
