@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "9178888c-73fe-410f-a083-779ea0e6c5bd",
+    "Name": "UsrProsesPengadaanTag",
+    "ModifiedOnUtc": "\/Date(1760518754000)\/",
+    "Parent": {
+      "UId": "9e3f203c-e905-4de5-9468-335b193f2439",
+      "Name": "BaseTag"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Proses Pengadaan section tag",
+    "DependsOn": []
+  }
+}

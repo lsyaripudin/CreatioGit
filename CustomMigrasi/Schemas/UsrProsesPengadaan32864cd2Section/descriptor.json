@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "f71b9452-e621-4496-8521-b0c26ec939e6",
+    "Name": "UsrProsesPengadaan32864cd2Section",
+    "ModifiedOnUtc": "\/Date(1760518713000)\/",
+    "Parent": {
+      "UId": "7912fb69-4fee-429f-8b23-93943c35d66d",
+      "Name": "BaseSectionV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Section schema: \"Proses Pengadaan\""
+  }
+}

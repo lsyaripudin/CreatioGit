@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "bc67b4c7-12f9-4fc0-b543-8bef54323f94",
+    "Name": "UsrProsesPengadaanFolder",
+    "ModifiedOnUtc": "\/Date(1760518743000)\/",
+    "Parent": {
+      "UId": "d602bf96-d029-4b07-9755-63c8f5cb5ed5",
+      "Name": "BaseFolder"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Proses Pengadaan folder",
+    "DependsOn": []
+  }
+}
